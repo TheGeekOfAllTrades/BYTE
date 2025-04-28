@@ -1,5 +1,3 @@
-# Goldshell Byte Setup Guide
-
 # Goldshell Byte - Quick Start Guide
 
 Welcome! This guide will help you set up your Goldshell Byte and start mining quickly.
